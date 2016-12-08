@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XpMan.XmasTree.Tests", "XpMan.XmasTree\XpMan.XmasTree.Tests.csproj", "{A569DE88-F283-4DCF-B406-3F50A805500F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A569DE88-F283-4DCF-B406-3F50A805500F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A569DE88-F283-4DCF-B406-3F50A805500F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A569DE88-F283-4DCF-B406-3F50A805500F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A569DE88-F283-4DCF-B406-3F50A805500F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

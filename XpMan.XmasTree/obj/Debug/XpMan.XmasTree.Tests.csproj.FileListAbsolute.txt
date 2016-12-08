@@ -1,0 +1,8 @@
+c:\users\jamesjefferies\documents\visual studio 2015\Projects\XpMan.XmasTree\XpMan.XmasTree\obj\Debug\XpMan.XmasTree.Tests.csprojResolveAssemblyReference.cache
+C:\Users\jamesjefferies\documents\visual studio 2015\Projects\XpMan.XmasTree\XpMan.XmasTree\bin\Debug\XpMan.XmasTree.pdb
+C:\Users\jamesjefferies\documents\visual studio 2015\Projects\XpMan.XmasTree\XpMan.XmasTree\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\jamesjefferies\documents\visual studio 2015\Projects\XpMan.XmasTree\XpMan.XmasTree\bin\Debug\nunit.framework.dll
+C:\Users\jamesjefferies\documents\visual studio 2015\Projects\XpMan.XmasTree\XpMan.XmasTree\bin\Debug\nunit.framework.xml
+C:\Users\jamesjefferies\documents\visual studio 2015\Projects\XpMan.XmasTree\XpMan.XmasTree\obj\Debug\XpMan.XmasTree.pdb
+C:\Users\jamesjefferies\Documents\Visual Studio 2015\Projects\XpMan.XmasTree\XpMan.XmasTree\bin\Debug\XpMan.XmasTree.exe
+C:\Users\jamesjefferies\Documents\Visual Studio 2015\Projects\XpMan.XmasTree\XpMan.XmasTree\obj\Debug\XpMan.XmasTree.exe
